@@ -13,6 +13,6 @@ def auto_clicker(interval, duration):
         print("Auto Clicker dihentikan oleh pengguna.")
     
 if __name__ == "__main__":
-    interval = float(input("Masukkan interval antar klik (dalam detik): "))
+    interval = float(input("Masukkan interval antar klikkkk (dalam detik): "))
     duration = float(input("Masukkan durasi Auto Clicker (dalam detik): "))
     auto_clicker(interval, duration)
